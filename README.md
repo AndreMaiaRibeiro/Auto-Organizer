@@ -1,0 +1,2 @@
+# Auto Organizer
+ Auto Organizer is a Python-based utility designed to automatically organize files within specified directories based on their types. This tool efficiently categorizes files such as documents, images, videos, and more into designated folders, helping users maintain a clean and structured file system. With customizable configurations and seamless integration, Auto Organizer simplifies the task of managing cluttered directories, providing a convenient solution for organizing digital files effortlessly.
